@@ -1,0 +1,1 @@
+# offline-first-task-manager
